@@ -25,7 +25,7 @@
 - This project deployed to github. 
 https://scbaris.github.io/Clicky-Game/
 
-
+- This project supported with Boostrap. And I write some custom css to make is more pretty. 
 
 
 
